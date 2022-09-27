@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources on Artwork</title>
-    <link>https://acc3817467171034.github.io/artwork.github.io/resources/</link>
+    <link>https://acc3817467171034.github.io/artwork/resources/</link>
     <description>Recent content in Resources on Artwork</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://acc3817467171034.github.io/artwork.github.io/resources/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://acc3817467171034.github.io/artwork/resources/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
