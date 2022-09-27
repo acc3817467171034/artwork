@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eyecatcher on Site title</title>
+    <link>https://127.0.0.1/categories/eyecatcher/</link>
+    <description>Recent content in eyecatcher on Site title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Nov 2017 15:37:04 +0100</lastBuildDate><atom:link href="https://127.0.0.1/categories/eyecatcher/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gallery</title>
+      <link>https://127.0.0.1/pages/front/photocards/</link>
+      <pubDate>Mon, 13 Nov 2017 15:37:04 +0100</pubDate>
+      
+      <guid>https://127.0.0.1/pages/front/photocards/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
